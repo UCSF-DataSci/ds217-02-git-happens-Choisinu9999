@@ -264,4 +264,4 @@ cat output/analysis_report.txt
 
 ---
 
-**Remember**: This assignment focuses on **competence** rather than expertise. The goal is to demonstrate that you can use Git, CLI, and Python effectively for data science workflows.
+**Remember**: This assignment focuses on **competence** rather than expertise. The goal is to demonstrate that you can use Git, CLI, and Python effectively for data science workflows.# datasci-week02-integration
